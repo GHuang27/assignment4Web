@@ -37,7 +37,7 @@ const Credits = (props) => {
                 <button>Add</button>
             </form>
             <br />
-            <Link to="/home">Home</Link> {' - '}
+            <Link to="/assignment4w">Home</Link> {' - '}
             <Link to="/userProfile">User Profile</Link> {' - '}
             <Link to="/login">Login</Link> {' - '}
             <Link to="/debits">Debits</Link>
