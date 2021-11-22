@@ -51,7 +51,7 @@ class LogIn extends Component {
                     <button>Log In</button>
                 </form>
                 <br />
-                <Link to="/">Home</Link> {' - '}
+                <Link to="/home">Home</Link> {' - '}
                 <Link to="/userProfile">User Profile</Link> {' - '}
                 <Link to="/debits">Debits</Link> {' - '}
                 <Link to="/credits">Credits</Link>
